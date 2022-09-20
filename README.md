@@ -7,9 +7,12 @@ Es un documento con información y datos acerca de alguna temática en particula
     
 Un sitio web es una colección de páginas web vinculadas (más sus recursos asociados) que comparten un único nombre de       dominio
 3.  ¿Que es una aplicacion web?
+
     Una aplicación web es una herramienta que los usuarios pueden utlizar mediante  un navegador web
 4. ¿Ques es una herramienta ofimatica?
+
     Es una aplicación (en local o en linea) que permite editar un texto, una hoja de calculo, una presentación
+    
 5. [Herramientas de Google:]( https://www.google.com/intl/es-419/chrome/browser-tools/)
 
 | Aplicaciones | Visto |
