@@ -1,12 +1,12 @@
-#Evaluación Inicial
+# Evaluación Inicial
 
 1. ¿Qué es una página web?
 
-Es un documento con información y datos acerca de alguna temática en particular a la que se puede acceder desde un          buscador en internet y está publicada por una persona
+    Es un documento con información y datos acerca de alguna temática en particular a la que se puede acceder desde un         buscador en internet y está publicada por una persona
 
 2. ¿Qué es un sitio web?
     
-Un sitio web es una colección de páginas web vinculadas (más sus recursos asociados) que comparten un único nombre de       dominio
+    Un sitio web es una colección de páginas web vinculadas (más sus recursos asociados) que comparten un único nombre de       dominio
 
 3.  ¿Que es una aplicacion web?
 
@@ -28,7 +28,7 @@ Un sitio web es una colección de páginas web vinculadas (más sus recursos aso
 | ... | ... |
 
 6. ¿Que es el HTML?
-Es un lenguaje de marcas. Es un lenguaje estandart para crear sitios web.
+    Es un lenguaje de marcas. Es un lenguaje estandart para crear sitios web.
 ```html
     <!DOCTYPE html>
 <html lang="en">
@@ -44,7 +44,7 @@ Es un lenguaje de marcas. Es un lenguaje estandart para crear sitios web.
 ```
 
 7. ¿Qué es CSS?
-   CSS es un lenguaje usado para dar estilos a un documento HTML. CSS describe como los elementos HTML deberian ser mostrados.
+   CSS es un lenguaje usado para dar estilos a un documento HTML. CSS describe como los elementos HTML deberian ser            mostrados.
    
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 ![](https://github.com/ChristianMonrabal/M4_UF1_A2_DocumentarConMarkdown/blob/main/Screenshot_1.png)
