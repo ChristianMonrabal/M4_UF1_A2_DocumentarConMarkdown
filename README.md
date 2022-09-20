@@ -13,7 +13,7 @@
    
 4. ¿Cuales son las [herramientas de Google]( https://www.google.com/intl/es-419/chrome/browser-tools/) que utlizas habitualmente?
 
-| **Aplicaciones | Visto** |
+| Aplicaciones | Visto |
 |--------------| ---------------|
 | Google Docs | ✔️ |
 | Google Slides | ✔️ |
