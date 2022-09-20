@@ -1,9 +1,11 @@
 #Evaluación Inicial
 
 1. ¿Qué es una página web?
- Es un documento con información y datos acerca de alguna temática en particular a la que se puede acceder desde un          buscador en internet y está publicada por una persona
+
+Es un documento con información y datos acerca de alguna temática en particular a la que se puede acceder desde un          buscador en internet y está publicada por una persona
 2. ¿Qué es un sitio web?
-    Un sitio web es una colección de páginas web vinculadas (más sus recursos asociados) que comparten un único nombre de       dominio
+    
+Un sitio web es una colección de páginas web vinculadas (más sus recursos asociados) que comparten un único nombre de       dominio
 3.  ¿Que es una aplicacion web?
     Una aplicación web es una herramienta que los usuarios pueden utlizar mediante  un navegador web
 4. ¿Ques es una herramienta ofimatica?
