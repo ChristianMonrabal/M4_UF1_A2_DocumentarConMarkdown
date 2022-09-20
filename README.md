@@ -33,7 +33,7 @@ Es un lenguaje de marcas. Es un lenguaje estandart para crear sitios web.
 <body>
 </body>
 </html>
-```html
+```
 7. ¿Qué es CSS?
    CSS es un lenguaje usado para dar estilos a un documento HTML. CSS describe como los elementos HTML deberian ser mostrados.
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
